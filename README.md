@@ -8,3 +8,8 @@
 1. 从yoga会员卡系统开始吧。把yoga的功能复制一遍.
 1. 另外一个可以尝试的点是从办公插件，证件照裁剪开始。
 1. 另外一个方向是做todo list，集成redmine.
+
+
+1. https://github.com/younthu/panda-admin , panda的admin后台
+2. https://github.com/younthu/pandaJava, panda api的java版本
+3. https://github.com/younthu/pandaJsSDK, panda api的js sdk.
